@@ -1,0 +1,266 @@
+[
+  {
+    "category": "Sustracción",
+    "type": "Bolso/Cartera",
+    "content": "-- Bolso tipo .. de la marca... de color ... conteniendo los siguientes objetos a nombre de la denunciantes.\n\n-- La cartera tipo... de la marca... de color .... Conteniendo en su interior:\n> -- Documento Nacional de Identidad.\n> -- Carnet de conducir.\n> -- Tarjeta de OSAKIDETZA.\n> -- Tarjeta BARIK con un saldo de .....\n> -- Tarjeta bancaria de .... A nombre de la denunciante. Anulada a la hora de interponer la denuncia.\n> -- Entre ... euros y .... euros distribuidos.",
+    "legislation": ""
+  },
+  {
+    "category": "Sustracción",
+    "type": "Teléfono Móvil",
+    "content": "-- Teléfono móvil de la marca ...., modelo ... de color ...\n-- El teléfono está registrado con IMEI1 ... e IMEI2...\n-- El teléfono porta el número de serie...\n-- Compañía EUSKALTEL/MOVISTAR/ORANGE/DIGI/LAYCA, nº teléfono .....\n-- Valor de compra entre ... y ... euros.\n-- Asegurado con compañía...",
+    "legislation": ""
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Detenidos",
+    "content": "-- Que los agentes observan entonces a un individuo, el ahora presentado como detenido D. (datos filiación), quien se encuentra en la calle ......, a la altura del número ....., introduciendo un bolso de color rojo en una papelera, coincidiendo con la descripción facilitada por la víctima.\n-- Que el posteriormente detenido D., procede a ...\n-- Que D., quien resultaría detenido, procede a ....\n-- Que al detectar la presencia policial sale huyendo.\n-- Con finalidad de evitar daño grave, agentes intervienen sin demora.",
+    "legislation": ""
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Agente Racista",
+    "content": "-- Que D. * acusa a los agentes públicamente de solicitar documentación por motivos racistas.\n-- Los agentes reiteran que el motivo es sancionar infracción, con absoluta neutralidad.\n-- D. * insiste: 'SOIS RACISTAS', 'ME PARAIS POR SER MORO'.\n-- Los agentes informan que faltar al respeto es infracción art. 37.4 L.O. 4/2015 o posible delito de calumnia (arts. 205 y 215.1 CP).",
+    "legislation": "Artículo 37.4 Ley Orgánica 4/2015, arts. 205 y 215.1 Código Penal"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Queja a agente entrada bar",
+    "content": "-- Que D. * pregunta motivo de presencia policial en BAR *, siendo informado cumplidamente sobre causa y finalidad.",
+    "legislation": ""
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Pedir documentación malas maneras",
+    "content": "-- Que D. * acusa a agentes de pedir documentación de malas maneras.\n-- El agente informa que se les dio trato correcto: 'BUENAS TARDES CABALLERO ¿ME PERMITE SU DOCUMENTACIÓN POR FAVOR?'.",
+    "legislation": ""
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Actuación de agente fuera de servicio",
+    "content": "-- Agente de Policía Municipal de Durango, fuera de servicio, observa tirón de bolso e interviene al grito de 'ALTO POLICIA'.\n-- Actúa en virtud del art. 5.4 LO 2/1986 (intervenir en cualquier tiempo y lugar en defensa de la ley).",
+    "legislation": "Artículo 5.4 Ley Orgánica 2/1986 de Fuerzas y Cuerpos de Seguridad"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Toma de imágenes/videograbaciones cámaras agentes",
+    "content": "-- El medio utilizado debe quedar identificado: marca, modelo, número de serie, agente que graba, nombre del archivo.\n-- Al amparo arts. 770 y 588 quinquies a LECrim, cámara corporal TRASCEND, modelo DRIVEPRO BODY 30, con número de serie X0123456789Y, propiedad Policía Municipal de Durango, almacenando imágenes como depósito.",
+    "legislation": "Pg.95 Ley Orgánica 4/1197 (actualizada) y arts. 770, 588 quinquies LECrim"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Enseñar única fotografía a víctima",
+    "content": "-- Dada inmediatez y coincidencia con descripción, se exhibe a la víctima una única imagen fotográfica obtenida de D. Gustavo como DILIGENCIA DE INVESTIGACIÓN.\n-- La testigo reconoce al autor.\n-- No es reconocimiento fotográfico formal, sino diligencia de investigación lícita. (Fundamento STS 231/2015)",
+    "legislation": "STS 231/2015: mostrar fotografía del DNI o base policial es diligencia de investigación, no invalida posterior rueda"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Identificaciones preventivas (autores)",
+    "content": "-- Agentes uniformados observan a sujeto en actitud de control en zona comercial conflictiva.\n-- Al percatarse de presencia policial, modifica comportamiento, comienza marcha, voltea.\n-- Se solicita identificación para prevenir delito, informándole de razones y obligación.\n-- Se detallan actitudes de nerviosismo, huida, ocultación.",
+    "legislation": "Arts. 16 y 9.2 LO 4/2015; identificación por indicios de participación en infracción"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Identificación testigos",
+    "content": "-- En virtud del art. 770.5 LECrim, se solicita identificación a testigo que se encuentra en lugar del delito, informándole de razones y obligación.",
+    "legislation": "Artículo 770.5 LECrim"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Registros corporales superficiales",
+    "content": "-- Zona habitual de tráfico/reyertas/delitos.\n-- La persona se corresponde indiciariamente con perfil de implicado.\n-- Se procede a registro corporal externo informando razones, advirtiendo consecuencias.\n-- Técnica rápida de palpado externo, con proporcionalidad y mínimo perjuicio.",
+    "legislation": "Principios de proporcionalidad, igualdad, no discriminación; LO 4/2015, jurisprudencia"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Registro corporal (partes del cuerpo)",
+    "content": "-- Evidente olor a marihuana/cannabis. Se solicita acompañar a lugar reservado y dejar a la vista partes normalmente cubiertas (quitar zapatillas, calcetines, bajar pantalones) para inspección visual y palpado de prendas, sin acceder a partes pudendas.",
+    "legislation": "Principios de proporcionalidad, respeto a intimidad, necesidad"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Registro a mujer (sujetador)",
+    "content": "-- Agente femenino solicita a Dña. Ana que la acompañe a baño femenino, se quite el sujetador para inspección visual y palpado. Sin acceso a partes pudendas, con respeto y proporcionalidad.",
+    "legislation": ""
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Registro de vehículos",
+    "content": "-- Por experiencia policial, zona donde es eventual presencia de sustancias/armas/instrumentos de delito. Se ordena el alto al vehículo mediante señales luminosas para comprobaciones, ante indicios de porte ilegal.",
+    "legislation": "Artículo 18 LO 4/2015, normativa vigilancia"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Registro en locales públicos",
+    "content": "-- Informaciones policiales apuntan a tráfico de drogas en discoteca. Se realiza inspección del local abierto al público como diligencia de comprobación al amparo del art. 18 LO 4/2015.",
+    "legislation": "Artículo 18 Ley Orgánica 4/2015"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Detención por tentativa de lesiones",
+    "content": "-- El detenido extrae un bate de béisbol, corre hacia la víctima profiriendo 'TE VOY A ABRIR LA CABEZA', lanza el bate contra la cabeza. La víctima esquiva impactando en vehículo. Tentativa de delito de lesiones graves.",
+    "legislation": "Artículos 15, 16 CP (tentativa), arts. 147-148 CP"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Tentativa de delito (vehículo con útiles)",
+    "content": "-- Intervención de vehículo con ocupantes con antecedentes. Se localizan inhibidores, pasamontañas, guantes, destornilladores, plásticos para cerraduras. No justifican su tenencia. Tentativa de robo con fuerza in fieri.",
+    "legislation": "Artículo 15, 237-238 CP, artículo 553 LECrim (delincuente perseguido)"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Detención por delito flagrante",
+    "content": "-- Sujeto miccionando vía pública. Requerido para identificarse, increpa a agentes, empuja a un agente. Flagrancia delictiva por atentado/resistencia. Se procede a detención.",
+    "legislation": "Artículo 37.4 LO 4/2015, artículos 550 y 556 CP"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Detención por delito leve (hurto, indocumentada)",
+    "content": "-- Hurto de dos botellas de vino valor 120€. La autora no porta DNI, no posible identificación fehaciente, se aplica art. 495 LECrim para detención por falta de identificación.",
+    "legislation": "Artículo 495 LECrim, delito leve hurto art. 234 CP"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Uso de fuerza y detenido herido",
+    "content": "-- El detenido se abalanza contra agente, forcejeo, caída produciendo herida en cabeza (4 puntos de sutura). Uso necesario y proporcional de la fuerza. Asistencia sanitaria.",
+    "legislation": "Uso legítimo de la fuerza, proporcionalidad, deber de velar por integridad del detenido"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Entrada a domicilio consentimiento",
+    "content": "-- Agentes solicitan permiso a titular para acceder al inmueble, informando finalidad. La titular otorga consentimiento expreso (verbal, gestual o apartándose).",
+    "legislation": "Inviolabilidad domiciliaria art. 18 CE; consentimiento válido"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Entrada por flagrancia delictiva (fractura)",
+    "content": "-- Vecino alerta de personas fracturando puerta. Agentes observan puerta fracturada, astillas, infiriendo que el delito se está cometiendo. Entrada por flagrancia.",
+    "legislation": "Artículo 553 LECrim, flagrante delito"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Evitar propagación delictiva (usurpación)",
+    "content": "-- Delito leve de usurpación en curso. Se entra para restaurar posesión del legítimo propietario y evitar progresión del mal.",
+    "legislation": "Artículo 245 CP, principio de necesidad, LO 4/2015"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Delito de lesiones en interior",
+    "content": "-- Ruidos, gritos, indicios de agresión. Se escuchan golpes. Se accede para evitar propagación delictiva y proteger integridad víctima.",
+    "legislation": "Artículo 553 LECrim, estado de necesidad, flagrancia"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Delincuente perseguido (art. 553 LECrim)",
+    "content": "-- Persecución policial, sujeto huye y se refugia en domicilio. Art. 553 LECrim habilita entrada para detener al delincuente inmediatamente perseguido. Se localiza escondido bajo cama, droga en bañera.",
+    "legislation": "Artículo 553 LECrim (delincuente perseguido que se oculte o refugie)"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Entrada por mandamiento de prisión",
+    "content": "-- Orden de ingreso prisión en vigor. Requerimiento para salir, negativa. Art. 553 LECrim permite entrada para ejecutar mandamiento judicial.",
+    "legislation": "Artículo 553 LECrim, ejecución de mandamiento de prisión"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Entrada por urgente necesidad (tentativa autolítica)",
+    "content": "-- Vecinos escuchan 'socorro', llamadas sin respuesta, luz encendida. Riesgo grave e inminente para la vida. Art. 15.2 LO 4/2015. Entrada para auxilio.",
+    "legislation": "Artículo 15.2 LO 4/2015, estado de necesidad"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Resistencia y desobediencia grave",
+    "content": "-- Cliente ebrio se niega a abandonar el bar pese a orden legítima del responsable y requerimiento policial. Desobediencia reiterada, se procede a detención por delito flagrante de desobediencia grave.",
+    "legislation": "Artículo 36.6 LO 4/2015, art. 556 CP"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Atentado + lesiones leves",
+    "content": "-- Agresión a agentes con policontusiones, equimosis. Se denuncian lesiones leves (art. 147.2 CP) además del atentado. Concurso de delitos.",
+    "legislation": "Arts. 550, 147.2 CP. Concurso medial"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Atentado + maltrato de obra sin lesión",
+    "content": "-- Empujones a agente sin lesión. Se denuncia delito leve de maltrato de obra (art. 147.3 CP o 552 CP).",
+    "legislation": "Artículo 552 CP, 147.3 CP"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Tráfico de drogas",
+    "content": "-- Sujeto en actitud de espera en parque conocido por venta drogas. Registro corporal: 7 envoltorios marihuana (27,85g), 36 envoltorios vacíos, 47€ en billetes pequeños. Indicios de tráfico. Detención por salud pública.",
+    "legislation": "Artículo 368 CP, art. 36.16 LO 4/2015 (subsidiario)"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Negativa a identificarse (usurpación)",
+    "content": "-- Ocupante de inmueble sin título. Requerida para identificarse, se niega reiteradamente. Se le advierte desobediencia grave. Entrada al domicilio por flagrancia de desobediencia y arts. 553 LECrim.",
+    "legislation": "Art. 16.2, 16.5 LO 4/2015, STC 341/1993, STS 191/2021, art. 553 LECrim"
+  },
+  {
+    "category": "Comparecencia ARMAS",
+    "type": "Navaja automática",
+    "content": "-- Navaja con hoja de 22 cm, apertura por botón/resorte. Considerada arma prohibida (art. 4.1.f Reglamento de Armas). Especial potencialidad lesiva.",
+    "legislation": "Real Decreto 137/1993, art. 4.1.f"
+  },
+  {
+    "category": "Comparecencia ARMAS",
+    "type": "Defensa extensible",
+    "content": "-- Defensa extensible de 32 cm desplegada, arma prohibida (art. 5.1.j RD 137/1993). Instrumento contundente especialmente peligroso.",
+    "legislation": "Artículo 5.1.j Reglamento de Armas"
+  },
+  {
+    "category": "Comparecencia ARMAS",
+    "type": "Bate de baseball modificado",
+    "content": "-- Bate de baseball con alambre de espino/concertina, convirtiéndolo en arma contundente y cortante. Arma prohibida art. 4.1.h RD 137/1993.",
+    "legislation": "Artículo 4.1.h RD 137/1993"
+  },
+  {
+    "category": "Comparecencia ARMAS",
+    "type": "Machete",
+    "content": "-- Machete de 38 cm, arma blanca de gran peligrosidad, utilizada en reyertas con capacidad de amputación. Especial potencialidad lesiva. Arma prohibida.",
+    "legislation": "Artículo 4.1.h RD 137/1993"
+  },
+  {
+    "category": "Comparecencia ARMAS",
+    "type": "Circunstancias arma peligrosa",
+    "content": "-- Arma accesible, sin funda, portada por sujeto con antecedentes/bajo efectos alcohol, en zona concurrida. Causa de justificación inexistente.",
+    "legislation": "Criterios de especial peligrosidad. Art. 4.1.h RD 137/1993"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Uso arma de fuego ante cuchillo",
+    "content": "-- Sujeto con cuchillo de 18cm amenaza, huye hacia agente. Ante riesgo grave inminente, disparos a extremidades, impactos en tórax. Uso legítimo, proporcional, último recurso.",
+    "legislation": "Principios de defensa propia, uso de arma reglamentaria, art. 5.4 LO 2/1986"
+  },
+  {
+    "category": "Comparecencia",
+    "type": "Uso arma de fuego contra vehículo",
+    "content": "-- Vehículo sustraído se dirige a atropellar a agente en control. Disparo a zona baja para detener vehículo. Evita atropello. Tentativa de asesinato, atentado.",
+    "legislation": "Art. 17.2 LO 4/2015, arts. 139, 550, 380 CP"
+  },
+  {
+    "category": "Descripcion",
+    "type": "Droga",
+    "content": "OCHO GRAMOS CON CIENTO VEINTE MILIGRAMOS (8,120G)",
+    "legislation": ""
+  },
+  {
+    "category": "Descripcion",
+    "type": "Objetos",
+    "content": "UNA (1) NAVAJA de siete melles, hoja 8cm, cachas madera, 12cm.",
+    "legislation": ""
+  },
+  {
+    "category": "Solicitud",
+    "type": "VIDEO SWEET AND VICIOUS",
+    "content": "Videograbaciones del interior establecimiento hostelero SWEET AND VICIOUS (Durango). Solicitud formal para obtener grabación sistema seguridad a los efectos de aclaración de hechos delictivos.",
+    "legislation": ""
+  },
+  {
+    "category": "Solicitud",
+    "type": "VIDEO KIROLBET",
+    "content": "Videograbaciones establecimiento KIROLBET. Empresa: Tele Apostuak Promotora de Juegos y Apuestas S.A. Dirección, fax y email para remisión.",
+    "legislation": ""
+  }
+]

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Consultor de Comparecencias Policiales</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <header class="header">
+        <div>
+            <h1>📋 Consultor de Comparecencias Policiales</h1>
+            <div class="badge-data">Datos cargados desde textos.json</div>
+        </div>
+        <div class="stats" id="statsCount">Cargando registros...</div>
+    </header>
+
+    <div class="filters-panel">
+        <div class="filter-group">
+            <label>📂 CATEGORÍA</label>
+            <select id="categoryFilter">
+                <option value="all">Todas las categorías</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>🏷️ TIPO / ASUNTO</label>
+            <select id="typeFilter">
+                <option value="all">Todos los tipos</option>
+            </select>
+        </div>
+        <div class="filter-group search-group">
+            <label>🔍 BÚSQUEDA LIBRE</label>
+            <input type="text" id="searchInput" placeholder="Ej: detención, flagrancia, LECrim...">
+        </div>
+        <div class="btn-group">
+            <button id="resetFiltersBtn">⟳ Reiniciar filtros</button>
+        </div>
+    </div>
+
+    <div id="resultsContainer" class="results-list"></div>
+    <div id="paginationControls" class="pagination"></div>
+
+    <div class="upload-section">
+        <div>
+            <span>📂 <strong>Actualizar datos</strong> (sustituir por nuevo JSON)</span>
+            <div class="small-note">Formato: array con category, type, content, legislation</div>
+        </div>
+        <div>
+            <label class="upload-label" for="jsonUpload">📎 Cargar archivo .json</label>
+            <input type="file" id="jsonUpload" accept=".json">
+            <button id="downloadJsonBtn" class="outline">⬇️ Exportar JSON actual</button>
+            <button id="resetDefaultData" class="outline">↺ Restaurar datos originales</button>
+        </div>
+    </div>
+</div>
+<div id="toastMsg" class="toast-msg">📋 Copiado al portapapeles</div>
+
+<script src="script.js"></script>
+</body>
+</html>
